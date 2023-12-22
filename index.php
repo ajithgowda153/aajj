@@ -3,7 +3,7 @@
 <body>
  
 <?php
-echo "hii ajith welcome!";
+echo "hii ajith boy boy!";
 ?>
 
 </body>
